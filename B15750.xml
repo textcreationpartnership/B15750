@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The poysonit schot</title>
+            <author>Sempill, Robert, 1530?-1595.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15750</idno><idno type="EEBO-CITATION">99827713</idno>
+  <idno type="VID">197966</idno>
+  <idno type="EEBO-PROQUEST">2240885710</idno>
+  
+            <idno type="STC">STC 22204</idno>
+            <idno type="PROQUEST">99827713</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827713e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15750)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197966)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21232:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The poysonit schot</title>
+                  <author>Sempill, Robert, 1530?-1595.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>be Robert Lekpreuit,</publisher>
+                  <pubPlace>Imprentit at Edinburgh :</pubPlace>
+                  <date>Anno Do. 1570.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "O if wicked vice first sen the world began".</note>
+                  <note>By Robert Sempill.</note>
+                  <note>On the murder of Regent Moray.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Moray, James Stewart, --  Earl of, ca. 1531-1570 --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Ballads, Scots --  16th century.</term>
+               <term type="topical_term">Murder --  Scotland --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="sco">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197966:1"/>
+            <p>ANCIENT SONGS <hi>and</hi> BALLADS; <hi>Written on Various Subjects, AND</hi> Printed between the Years <hi>MDLX.</hi> and <hi>MDCC. CHIEFLY COLLECTED BY ROBERT EARL OF OXFORD, And purchased at the Sale of the late MR. WEST's LIBRARY, in the Year</hi> 1773. <hi>ENCREASED BY SEVERAL ADDITIONS. In TWO VOLUMES. VOL. III</hi>
+            </p>
+            <q>
+               <l>These venerable ancient song-inditers</l>
+               <l>Soar'd many a pitch above our modern writers:</l>
+               <l>Our numbers may be more refin'd than those,</l>
+               <l>But what we've gained in verse we've lost in prose.</l>
+               <l>Their words no shuffling double meaning knew;</l>
+               <l>Their speech was homely, but their hearts were true.</l>
+               <bibl>ROWE.</bibl>
+            </q>
+            <p>
+               <hi>LONDON, Arranged and Bound in the Year</hi> 1774.</p>
+            <pb facs="tcp:197966:2"/>
+            <pb facs="tcp:197966:2"/>
+            <pb facs="tcp:197966:3"/>
+            <pb facs="tcp:197966:3"/>
+            <pb facs="tcp:197966:4"/>
+            <pb facs="tcp:197966:4"/>
+            <gap reason="duplicate" resp="#oxf" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:197966:5"/>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:197966:5"/>
+            <head>¶ The Poysonit Schot</head>
+            <lg>
+               <l>GIf wicked vice first sen the warld began</l>
+               <l>Had age be age, but punishment Intrest?</l>
+               <l>In eirth lang syne yair had bene nothing than,</l>
+               <l>Saif only vice and malice manifest.</l>
+               <l>Bot to thir dayis sic mea<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s God ay drest,</l>
+               <l>Aganis vice that vertew ay hes streuin:</l>
+               <l>Thoch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ather vther be tyme hes <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pprest,</l>
+               <l>Last Iustice Iudge bure ay the ballance euin.</l>
+            </lg>
+            <lg>
+               <l>¶ Sa of his plesure it plesit him prouyde,</l>
+               <l>Vs to exerce as ship vnder the saill:</l>
+               <l>Sum tyme in storme, sum tyme in temperate tyde</l>
+               <l>To let vs knaw this warld is but fraill.</l>
+               <l>Betuir gude and euill mark and our trauaill,</l>
+               <l>In euills flude not men and our nawfrage:</l>
+               <l>Princes be Iustice he ordanit in this vaill,</l>
+               <l>Vs to conduct as Pilats dois their Barge.</l>
+            </lg>
+            <lg>
+               <l>☞ And sawe se in Storeis as we reid,</l>
+               <l>Iy to thir dayis sum Magistrates did ring:</l>
+               <l>Sum gude some euill, be tyme as o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> succeid</l>
+               <l>At quhais plesure vertew did fade a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> spring.</l>
+               <l>The gude did vertew, the wicked vice vpbring</l>
+               <l>Qubat plesis them the same the pepil suittis</l>
+               <l>And sa we se the maners of the King</l>
+               <l>Is ay the mark quhairat his subiects shuittis</l>
+            </lg>
+            <lg>
+               <l>¶ This part to preif<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e yair particular liues</l>
+               <l>It war to lang in vulgare veirs expres it,</l>
+               <l>At lenth the same sen Cronickles disciues,</l>
+               <l>And als experience will cause vs to confes it.</l>
+               <l>And last of all, how wicked vice Intres it</l>
+               <l>Amang our selues throw Maters negligence,</l>
+               <l>And how the same began to be suppressit:</l>
+               <l>Be Murray is meane we half experience.</l>
+            </lg>
+            <lg>
+               <l>¶ Quhat vice rais vp reuolue into ʒour minds</l>
+               <l>Quhat sin, quhat shame, in hir last daeis did reil</l>
+               <l>That prudent Prince gif yat he tuik sum pynis</l>
+               <l>That mys to mend I hope ʒe haif are feill.</l>
+               <l>Gif ocht he socht except ane common weill,</l>
+               <l>The gloir of God and Kingis obedience:</l>
+               <l>And in that cause maid Iustice ay his sheild,</l>
+               <l>I seik na Iudge bot ʒour awin conscience.</l>
+            </lg>
+            <lg>
+               <l>☞ His awin estate he cairit ay to naw,</l>
+               <l>For pompe nor pryde can na man say he preist,</l>
+               <l>Societie he socht, and keipit curage aw,</l>
+               <l>Think and alwayis that mesure wasnne feist.</l>
+               <l>His peple luifit and cairit for the leist.</l>
+               <l>For profite paust not, nor his commoditie:</l>
+               <l>In trouble trauellit: his cūmer neuer ceist</l>
+               <l>Ay to his wraik, and our vtilitie.</l>
+            </lg>
+            <lg>
+               <l>¶ Thus be his prudence vertew was erectit</l>
+               <l>In him the pure oppressed had releif:</l>
+               <l>Throw him Idolatrie and vice wes electit,</l>
+               <l>Throw him Gods Kirk and peple fand releif.</l>
+               <l>Throw him wes vinqueist the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ida<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of yis greif</l>
+               <l>Throw him yis realme fand sū stabilitie</l>
+               <l>Throw him was baneist thift, murther, &amp; reif,</l>
+               <l>P<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>acie puneist, and deuillishe sorcerie.</l>
+            </lg>
+            <lg>
+               <l>Sa vertew sprang and vice began to faide,</l>
+               <l>Oppressioun fled, and Iustice tuik the place,</l>
+               <l>His godly lyfe all godly men may aide:</l>
+               <l>Be his exemple vertew to imbrace.</l>
+               <l>And als his lyfe may in ane other cace,</l>
+               <l>All Princes warne heire <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</l>
+               <l>Thair foes to flatter that hes ane dou<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e race,</l>
+               <l>And to be war to clap ane traytours <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>id.</l>
+            </lg>
+            <lg>
+               <l>Euen as the man the quhilk be musik playis</l>
+               <l>Misto<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it stringis castis not away we se,</l>
+               <l>But peice and peice be sundrie wrestis &amp; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ayis</l>
+               <l>Iik ane with vther be tyme causts agre.</l>
+               <l>Euen so that Prince thocht be humilitie,</l>
+               <l>His peple wyn, and concord so contrake</l>
+               <l>Bot as sum stringis will rather brek nor be,</l>
+               <l>Euen so the wickit be mercy will not make.</l>
+            </lg>
+            <lg>
+               <l>☞ His mercy wan: bot mair his mercy tint</l>
+               <l>Not he, bot we, his mercy now may rew</l>
+               <l>His mercy loist we wan the swordis dint,</l>
+               <l>His mercy saifit, be mare hee that men slew.</l>
+               <l>Suppose his mercy this bergane to vs brew</l>
+               <l>Ʒit mene I not bot men suld mercy vse,</l>
+               <l>To penitents, quha myndis not vice renew,</l>
+               <l>Bot nane to sic coatine wis in abuse.</l>
+            </lg>
+            <lg>
+               <l>¶ His mercy saifit, quha mercy not deseruit,</l>
+               <l>His mercy did preserue the arrogant:</l>
+               <l>His mercy fu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> amangis vs hes preseruit,</l>
+               <l>Thocht thay seme holy in deid yai at na sanct.</l>
+               <l>His mercy saifit, we wer the better want,</l>
+               <l>Thair Serpents seid to tyrants wald vs thral</l>
+               <l>Because sic peple in tyme he did not dant,</l>
+               <l>But warldly mercy Christ sufferit him to fall.</l>
+            </lg>
+            <lg>
+               <l>☞ For mortall malice, and curst couetice,</l>
+               <l>With wickit Inuy commonit all in Ire:</l>
+               <l>And prydefull arrogance the mother of all vice</l>
+               <l>Aganis that Prince did cruelly conspire.</l>
+               <l>His fais hartis Inflamit all in fyre,</l>
+               <l>His blude to seik Inuyfull of his gloir:</l>
+               <l>Saikles to shuit him ane harlet feit for hyre,</l>
+               <l>Hangman to Hary, that tratouris wes befoir.</l>
+            </lg>
+            <lg>
+               <l>¶ O bludy bouchour bastard of Balials blude</l>
+               <l>Quha to this Realme had nother lufe nor ʒeill</l>
+               <l>O tressonable tratour be tressō yat thocht gude</l>
+               <l>Murdreis the Prince preseruer of this weill.</l>
+               <l>O sorrowfull shot, thy poysoun did doun steill,</l>
+               <l>Not only him, quhom wofully thow woundit:</l>
+               <l>Bot pure &amp; riche, thy vennoume hes gart feill,</l>
+               <l>Of his deit deith the stoundis him confoundit.</l>
+            </lg>
+            <lg>
+               <l>☞ That shot allace yis realme hes shot in tway</l>
+               <l>That shot to vice the portis hes oppinit plane,</l>
+               <l>That shot hes Iustice and vertew shot away,</l>
+               <l>That shot Idolatrie is shuitand vp agane.</l>
+               <l>Sic shottis vnpuneist gif lāg time yat remane</l>
+               <l>Vice sall be vertew, and vertew sall be vice:</l>
+               <l>Wrang salbe richt and richt salbe thocht vane</l>
+               <l>Ilk ane vnpuneist sall leis thair awin deuice.</l>
+            </lg>
+            <lg>
+               <l>That shot hes sinderit quhilk was to gidder knit</l>
+               <l>That shot hes cuillit our curage as ye leid</l>
+               <l>That shot hes feibilt our manly force and wit,</l>
+               <l>That shot our sichts hes blindit all in deid.</l>
+               <l>We se and spyis not our sorrowis to succeid,</l>
+               <l>We meint &amp; meinis not this wickitnes correck</l>
+               <l>We wald and will not hank yame be ye heid</l>
+               <l>Quha hes preparit the swordis for our nek.</l>
+            </lg>
+            <lg>
+               <l>¶ Vagabounds we wander in miserie &amp; wo</l>
+               <l>As ship but Ruther, sa ga we now but gyde:</l>
+               <l>We ska<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> we scatter we wait not quhair we go</l>
+               <l>Spyis not the rock quhairō we rashe our syde</l>
+               <l>We haue na grace nor power to prouyde,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this this rage and crueltie: remeid</l>
+               <l>But wantingly allace throw arrogance &amp; pryde</l>
+               <l>Offers this Realme as Sacrifice to deid.</l>
+            </lg>
+            <lg>
+               <l>In place of peace now murther weir vprasis</l>
+               <l>In place of life Inuy amangis vs springis,</l>
+               <l>In place of Faith his freind falset betra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is</l>
+               <l>In place of rest Rebellioun with vs ringis.</l>
+               <l>In place of ane, we haue so mony Kingis,</l>
+               <l>The Crownit King gettis na obedience,</l>
+               <l>Sū France for aide, &amp; sum Ingland inbringis</l>
+               <l>The ane for wrak the tother for defence.</l>
+            </lg>
+            <lg>
+               <l>And so this Realme quhilk enemeis oft sayit</l>
+               <l>With cruell weir and sturdie stormis fell,</l>
+               <l>Quhilk feirful force of Ingland neuer frayit,</l>
+               <l>Of France the feir, nor Spaine in iust quarrel</l>
+               <l>Quhilk to thir dayis vnuenqueist buir ye bell</l>
+               <l>Sall now allace be fatell destenie:</l>
+               <l>As Aiax wes, be vanquer of the sell,</l>
+               <l>On proper knyfe constraynit for to die.</l>
+            </lg>
+            <lg>
+               <l>¶ Quhat wald allace our Kings &amp; elders say,</l>
+               <l>Gif in thir dayis from heuin yai now discendit</l>
+               <l>To se this Realme so dulefully decay,</l>
+               <l>In quhats defence yair lusty lyuis thay endit.</l>
+               <l>Thay wald I trust repent yair time sa spendit</l>
+               <l>Thay wald I wait yair labouris loist forthink</l>
+               <l>To se yair Babes ye blude quhilk yai defendit</l>
+               <l>Aganis nature sa cruelly vpdrink.</l>
+            </lg>
+            <lg>
+               <l>¶ Iustlie yis plague I dout not we deseruit</l>
+               <l>Seikand the menis of our awin mischeif:</l>
+               <l>Bakwart from God because we haif sueruit</l>
+               <l>Thairfoir we taist his punischment in greif.</l>
+               <l>Ʒit in his mercy haifand ay beleif,</l>
+               <l>Still sall I pray his deuine Maiestie,</l>
+               <l>Aganis this rage to send vs releif,</l>
+               <l>Our King to saif and his Nobilitie.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Lenuoye.</head>
+            <lg>
+               <l>GO bony bill deploir</l>
+               <l>Of deith the dolent stound,</l>
+               <l>Quhilk did our Prince deuoir</l>
+               <l>Iames Regent of Renoun.</l>
+               <l>I pray the go, declair the wo</l>
+               <l>Sen syne that dois abound,</l>
+               <l>I gif command, throw burgh and land,</l>
+               <l>the same ʒow g<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>sound.</l>
+            </lg>
+            <lg>
+               <l>¶ Our cair may moue the stonis,</l>
+               <l>And hauie rockis to rair:</l>
+               <l>Swa mony stormes at onis,</l>
+               <l>Struke neuer land sa fair.</l>
+               <l>The cause of that, the heuins wat,</l>
+               <l>Not I, I ʒow declair,</l>
+               <l>Except it be, to let vs se,</l>
+               <l>How Kingdomes ar bot cair.</l>
+            </lg>
+            <lg>
+               <l>¶ Ʒit lat vs not dispair</l>
+               <l>Into thir walis of wo,</l>
+               <l>God may conuert our cair</l>
+               <l>in picsure and in Io.</l>
+               <l>He may discord, turne in accord,</l>
+               <l>And mak him freind was to:</l>
+               <l>He may I trest, set vs at rest,</l>
+               <l>Thocht all the warld say no.</l>
+            </lg>
+            <lg>
+               <l>¶ It suide releue our greif,</l>
+               <l>To se our King ben<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ig:</l>
+               <l>In him I hope releif,</l>
+               <l>Of ʒe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s thocht he be ʒing.</l>
+               <l>His future age, sum great presage,</l>
+               <l>Pretentis vs in his Ring:</l>
+               <l>Quha our defence, in his nascence,</l>
+               <l>Tulk haill in gouerning.</l>
+            </lg>
+            <trailer>☞ FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>☞ Imprentit at Edinburgh be Robert Lekpreuik. Anno. Do. 1570.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
